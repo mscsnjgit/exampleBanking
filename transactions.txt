@@ -1,0 +1,15 @@
+
+	Amount debited: $1.000000004E9	Date: 08:09:2023 - 06:00:55
+	Amount credited: $1.0E8	Date: 08:09:2023 - 06:00:55
+	Amount credited: $1.0E11	Date: 08:09:2023 - 06:00:55
+	Amount credited: $2.0	Date: 08:09:2023 - 06:00:55
+	Amount credited: $2.0	Date: 08:09:2023 - 06:00:55
+	Amount debited: $2.50000002E8	Date: 08:09:2023 - 06:00:55
+	Amount debited: $1.00000001E8	Date: 08:09:2023 - 06:00:55
+	Amount debited: $1.00000001E8	Date: 08:09:2023 - 06:00:55
+	Amount debited: $1.00000001E8	Date: 08:09:2023 - 06:00:55
+	Amount debited: $1.0000000001E10	Date: 08:09:2023 - 06:00:55
+	Amount debited: $8.869999994E9	Date: 08:09:2023 - 06:00:55
+	Amount debited: $7.983000002E9	Date: 08:09:2023 - 06:00:55
+	Amount debited: $7.1846999998E10	Date: 08:09:2023 - 06:00:55
+	Amount credited: $100.0	Date: 08:09:2023 - 06:00:55
